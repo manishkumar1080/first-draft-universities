@@ -1,11 +1,4 @@
 
-
-![](https://img.shields.io/github/stars/ycd/universities?style=for-the-badge)
-![](https://img.shields.io/github/forks/ycd/universities?style=for-the-badge)
-![](https://img.shields.io/github/issues/ycd/universities?style=for-the-badge)
-![](https://img.shields.io/github/license/ycd/universities?style=for-the-badge)
-![](https://img.shields.io/bitbucket/pr/ycd/universities?style=for-the-badge)
-
 <img src="docs/photo.png" width=700>
 
 
@@ -59,7 +52,3 @@ source env/bin/activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
-
-## License
-
-This project is licensed under the terms of the MIT license.
